@@ -1,14 +1,19 @@
-##Animate while scrolling
-###Step 1
+# Animate while scrolling
+
+## Step 1
+
 Add `class=hidden` to every section we want to animate
 
-###Step 2
+## Step 2
+
 Create an HTML [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
-###Step 3
+## Step 3
+
 Use CSS Transition to animate
 
-###Step 4 (optional)
+## Step 4 (optional)
+
 Not everyone wants to watch your stupid animation again and again, use this media query to supress it:
 
 ```
