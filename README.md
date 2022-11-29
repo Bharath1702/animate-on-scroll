@@ -1,5 +1,5 @@
 # Animate while scrolling
-[Live Demo](https://63850e47a04cfb5a2ae70414--creative-tiramisu-e5d737.netlify.app/)
+[Live Demo](https://creative-tiramisu-e5d737.netlify.app/)
 
 ## Step 1
 
